@@ -15,7 +15,6 @@
     // Override point for customization after application launch.
     NSLog(@"All is Ok");
     NSLog(@"All is another Ok");
-    NSLog(@"All is another Ok 3");
     return YES;
 }
 
