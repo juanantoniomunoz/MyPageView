@@ -16,6 +16,7 @@
     NSLog(@"All is Ok");
     NSLog(@"All is another Ok");
     NSLog(@"All is another Ok 3");
+    NSLog(@"All is another Ok 4");
     return YES;
 }
 
