@@ -13,10 +13,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    NSLog(@"All is Ok");
-    NSLog(@"All is another Ok");
-    NSLog(@"All is another Ok 3");
-    NSLog(@"All is another Ok 4");
     return YES;
 }
 
